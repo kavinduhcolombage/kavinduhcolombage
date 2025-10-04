@@ -45,17 +45,6 @@ const developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavinduhcolombage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinduhcolombage&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinduhcolombage&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🎯 What I'm Currently Up To
 
 - 🔭 Working on exciting software development projects
@@ -77,12 +66,4 @@ const developer = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kavinduhcolombage&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-*⭐ From kavinduhcolombage(https://github.com/kavinduhcolombage)*
-
 </div>
