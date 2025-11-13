@@ -56,11 +56,20 @@ const developer = {
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-hansana)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansana2024@gmail.com)
-
+  <a href="https://www.linkedin.com/in/kavindu-hansana" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/hansana2024" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="37" width="45" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:hansana2024@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://kavinduhansana-portfolio.netlify.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="portfolio" height="30" width="40" />
+  </a>
 </div>
+
 
 ---
 
